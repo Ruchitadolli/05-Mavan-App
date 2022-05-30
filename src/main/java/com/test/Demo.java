@@ -1,5 +1,5 @@
 package com.test;
 
-public class Demo {
+public class Demo extends RuntimeException {
 
 }
